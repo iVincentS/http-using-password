@@ -12,7 +12,7 @@ const rl = readline.createInterface({
 rl.question("Enter password: ", function(password) {
     if (password === "antiddos")
     {
-    console.log("Loginned!")
+    console.log("longinned anti ddos!")
 
 const rateLimiter = new RateLimiterMemory({
 	points: 5, // 5 points
