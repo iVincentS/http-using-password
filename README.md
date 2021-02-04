@@ -1,2 +1,8 @@
-# http-using-password
-This Is simple http using password , you can rewrite the password http as you want.
+# 404-HTTP
+this http is free.
+
+# how to run?
+node server 404.js
+
+# helped by :
+ifanps
