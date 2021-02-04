@@ -36,7 +36,7 @@ CreateWebServer()
 else
 {
 console.log("Wrong password")
-process.exit(0); //kode exit
+process.exit(0); //wrong password
 }
 rl.close();
 });
