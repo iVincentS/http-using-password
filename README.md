@@ -1,4 +1,4 @@
-# HTTP USING PASSWORD
+# http using password
 this http is free.
 
 # how to run?
