@@ -1,8 +1,8 @@
-# 404-HTTP
+# HTTP USING PASSWORD
 this http is free.
 
 # how to run?
-node server 404.js
+node http.js
 
-# helped by :
-ifanps
+# how to change the password?
+change it on "if (password === "antiddos")" change what pass do u want k
