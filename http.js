@@ -1,4 +1,4 @@
-//remake and updated by ivincent
+//anti ddos
 
 const http = require("restana")();
 const { RateLimiterMemory } = require('rate-limiter-flexible');
