@@ -13,6 +13,8 @@ rl.question("Enter password: ", function(password) {
     if (password === "antiddos")
     {
     console.log("longinned anti ddos!")
+	    
+    console.clear();
 
 const rateLimiter = new RateLimiterMemory({
 	points: 5, // 5 points
